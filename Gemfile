@@ -54,6 +54,9 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+# Figaro for handling sensitive configuration variables
+gem 'figaro'
+
 # learn-rails
 gem 'foundation-rails'
 gem 'gibbon'
