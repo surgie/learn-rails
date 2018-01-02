@@ -59,6 +59,7 @@ gem 'figaro'
 
 # learn-rails
 gem 'foundation-rails'
+gem 'jquery-rails'
 gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
